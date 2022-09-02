@@ -20,12 +20,12 @@
 
  
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+  <img align="right" alt="GIF"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="400" />
 
 **About Me!**
 
-- 👨🏽‍💻 I'm currently learning ... Full Stack developement
-- 🌱 I'm looking collaborate on ... Web Developement
+- 👨🏽‍💻 I'm currently learning ... **Full Stack developement**
+- 🌱 I'm looking collaborate on ... **Web Developement**
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [patlep08@gmail.com](mailto:patlep08@gmail.com).
 
