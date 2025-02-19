@@ -1,5 +1,5 @@
 <h1 title="hehehe"> Hey 👋, I'm Sachin!</h1>
-<h3 align="center">Learning Full Stack Developement</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 
 <img align="right" alt="GIF"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="400" />
